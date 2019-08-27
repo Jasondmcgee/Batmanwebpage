@@ -1,0 +1,24 @@
+h1 {background-color:#FFFFFF;
+    font-size:60px;}
+p {background-color: #FFFFFF;
+    font-size:20px;}
+h2{background-color:#FFFFFF;
+    font-size:20px;}
+    
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;}
+
+.small{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 79%;}
+
+.column {
+  float: right;
+  width: 33.33%;}
+
+.greybackground{background-color: #D3D3D3}
